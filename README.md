@@ -3,10 +3,6 @@ This challenge takes a provided Node.js application (eg. [ceros-ski](https://s3.
 
 Multiple ceros-ski app containers are deployed and can be configured in the [infrastructure as code](infrastructure/README.md). A deploy script is created to allow for updates to ceros-ski to be [deployed with no downtime](deploy/README.md) (eg. blue/green deployment.)
 
-Please do not hesitate to contact me for any questions regarding this challenge via ericgonzalesevans [at] gmail.com. 
-
-Thank you and enjoy!
-
 ## Overview
 
 The following acceptance criteria has been completed for this challenge: 
